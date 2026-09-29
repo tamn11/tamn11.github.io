@@ -316,6 +316,21 @@ nav a:hover {
 
     border: 1px solid var(--border);
 }
+.profile-image {
+    width: 150px;
+    height: 150px;
+
+    object-fit: cover;
+
+    border-radius: 50%;
+
+    border: 2px solid var(--accent);
+
+    display: block;
+
+    margin-bottom: 30px;
+}
+
 
 
 /* =========================================
