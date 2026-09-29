@@ -305,19 +305,18 @@ nav a:hover {
 }
 
 .project-image {
-    width: 80%;
-    /* height: 500px; */
+    width: 100%;
 
-    align-self: center;
+    display: block;
+
+    margin: 0 auto;
 
     object-fit: cover;
 
     border-radius: 8px;
-
-    margin-bottom: 25px;
-
-    border: 1px solid var(--border);
 }
+
+
 
 .profile-image {
     width: 50%;
