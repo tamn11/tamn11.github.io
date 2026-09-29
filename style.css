@@ -305,8 +305,10 @@ nav a:hover {
 }
 
 .project-image {
-    width: 50%;
+    width: 80%;
     /* height: 500px; */
+
+    align-self: center;
 
     object-fit: cover;
 
